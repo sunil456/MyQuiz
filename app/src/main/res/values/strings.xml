@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Quiz</string>
+    <string name="my_awesome_quiz">My Awesome Quiz</string>
+    <string name="highscore_0">Highscore: 0</string>
+    <string name="start_quiz">Start Quiz</string>
+    <string name="option_1">Option 1</string>
+    <string name="option_2">Option 2</string>
+    <string name="option_3">Option 3</string>
+    <string name="score_0">Score: 0</string>
+    <string name="question_1_x">Question: 1/x</string>
+    <string name="_00_30">00:30</string>
+    <string name="difficulty">Difficulty:</string>
+</resources>
